@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca\\Formato de Bilioteca.vbproj": {}
+    "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca\\Formato de Bilioteca.vbproj": {
+    "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca\\Formato de Bilioteca.vbproj",
+        "projectUniqueName": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca.vbproj",
         "projectName": "Formato de Bilioteca",
-        "projectPath": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca\\Formato de Bilioteca.vbproj",
+        "projectPath": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca.vbproj",
         "packagesPath": "C:\\Users\\SERVER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\Formato de Bilioteca\\obj\\",
+        "outputPath": "C:\\Users\\SERVER\\Escritorio\\Asignación 1 Segundo Corte\\Formato de Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SERVER\\AppData\\Roaming\\NuGet\\NuGet.Config",

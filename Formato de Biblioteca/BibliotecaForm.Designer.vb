@@ -22,6 +22,7 @@ Partial Class BibliotecaForm
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(BibliotecaForm))
         btnEjecutar = New Button()
         lstLibros = New ListBox()
         TXTTitulo = New TextBox()
@@ -48,7 +49,7 @@ Partial Class BibliotecaForm
         ' 
         lstLibros.FormattingEnabled = True
         lstLibros.ItemHeight = 15
-        lstLibros.Location = New Point(330, 35)
+        lstLibros.Location = New Point(291, 35)
         lstLibros.Name = "lstLibros"
         lstLibros.Size = New Size(308, 199)
         lstLibros.TabIndex = 1
@@ -57,21 +58,21 @@ Partial Class BibliotecaForm
         ' 
         TXTTitulo.Location = New Point(55, 40)
         TXTTitulo.Name = "TXTTitulo"
-        TXTTitulo.Size = New Size(269, 23)
+        TXTTitulo.Size = New Size(230, 23)
         TXTTitulo.TabIndex = 2
         ' 
         ' TXTAUTOR
         ' 
         TXTAUTOR.Location = New Point(55, 71)
         TXTAUTOR.Name = "TXTAUTOR"
-        TXTAUTOR.Size = New Size(269, 23)
+        TXTAUTOR.Size = New Size(230, 23)
         TXTAUTOR.TabIndex = 3
         ' 
         ' TXTEditorial
         ' 
         TXTEditorial.Location = New Point(68, 100)
         TXTEditorial.Name = "TXTEditorial"
-        TXTEditorial.Size = New Size(256, 23)
+        TXTEditorial.Size = New Size(217, 23)
         TXTEditorial.TabIndex = 4
         ' 
         ' cmbOperaciones
@@ -132,7 +133,8 @@ Partial Class BibliotecaForm
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(650, 255)
+        BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
+        ClientSize = New Size(607, 271)
         Controls.Add(Operaciones)
         Controls.Add(LbrsDisp)
         Controls.Add(Editorial)
