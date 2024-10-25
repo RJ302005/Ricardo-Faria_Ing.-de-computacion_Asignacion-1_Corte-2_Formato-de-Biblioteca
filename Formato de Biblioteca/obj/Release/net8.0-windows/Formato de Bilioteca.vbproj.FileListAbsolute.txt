@@ -1,0 +1,17 @@
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\bin\Release\net8.0-windows\Formato de Bilioteca.exe
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\bin\Release\net8.0-windows\Formato de Bilioteca.deps.json
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\bin\Release\net8.0-windows\Formato de Bilioteca.runtimeconfig.json
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\bin\Release\net8.0-windows\Formato de Bilioteca.dll
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\bin\Release\net8.0-windows\Formato de Bilioteca.pdb
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato_de_Bilioteca.BibliotecaForm.resources
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato_de_Bilioteca.Resources.resources
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.vbproj.GenerateResource.cache
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.AssemblyInfoInputs.cache
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.AssemblyInfo.vb
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.dll
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\refint\Formato de Bilioteca.dll
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.pdb
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\Formato de Bilioteca.genruntimeconfig.cache
+C:\Users\SERVER\Escritorio\Asignación 1 Segundo Corte\Formato de Biblioteca\Formato de Bilioteca\obj\Release\net8.0-windows\ref\Formato de Bilioteca.dll
